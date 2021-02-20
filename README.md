@@ -1,1 +1,3 @@
 # NYC_TaxiPrice_Prediction
+Used K-Fold Cross Validation to build a Decision Tree and then a Random Forest
+Then, on top of that built a Level2 Linear Regression to check weightage of above 2 regressors... 
